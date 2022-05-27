@@ -28,11 +28,6 @@ def driver(request):
     }
 
 
-#    browser = webdriver.Remote(remote_url, desired_capabilities=chromeOpts)
-#   yield browser
-#   browser.quit()
-
-
 def pytest_runtest_protocol(item, nextitem, driver):
     reports = runtestprotocol(item, nextitem=nextitem)
     for report in reports:
