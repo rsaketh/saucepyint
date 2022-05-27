@@ -1,0 +1,297 @@
+aniso8601==9.0.1
+apiclient==1.0.4
+apipkg==2.1.0
+Appium-Python-Client==2.1.2
+async-generator==1.10
+attrs==21.4.0
+backoff==1.11.1
+blinker==1.4
+boto3==1.20.44
+botocore==1.23.44
+Brotli==1.0.9
+browsermob-proxy==0.8.0
+cachetools==5.0.0
+cattrs==1.1.2
+certifi==2021.10.8
+cffi==1.15.0
+chardet==4.0.0
+charset-normalizer==2.0.10
+click==8.0.3
+ConfigArgParse==1.5.3
+cryptography==36.0.1
+cycler==0.11.0
+Cython==0.29.26
+decorator==5.1.1
+Deprecated==1.2.13
+docutils==0.18.1
+elasticsearch==7.10.1
+et-xmlfile==1.1.0
+execnet==1.9.0
+expiringdict==1.2.1
+eyes-common==5.0.0
+eyes-core==5.0.0
+eyes-selenium==5.5.0
+eyes-universal==2.2.0
+flaky==3.7.0
+Flask-BasicAuth==0.2.0
+Flask-Cors==3.0.10
+flask-restx==0.5.1
+Flask==2.0.2
+flatbuffers==2.0
+fonttools==4.29.0
+funcy==1.17
+future==0.18.2
+gevent==21.12.0
+geventhttpclient==1.5.3
+google-api-core==2.4.0
+google-api-python-client==2.36.0
+google-auth-httplib2==0.1.0
+google-auth==2.5.0
+googleapis-common-protos==1.54.0
+greenlet==1.1.2
+h11==0.13.0
+h2==4.1.0
+hpack==4.0.0
+httplib2==0.20.2
+hvac==0.11.2
+hyperframe==6.0.1
+idna==3.3
+imageio==2.14.1
+importlib-metadata==4.10.1
+importlib-resources==5.4.0
+imutils==0.5.4
+iniconfig==1.1.1
+itsdangerous==2.0.1
+jdcal==1.4.1
+Jinja2==3.0.3
+jmespath==0.10.0
+jsonpickle==2.1.0
+jsonschema==4.4.0
+junitparser==2.4.2
+kafka-python==2.0.2
+kaitaistruct==0.9
+kiwisolver==1.3.2
+kitchen==1.2.6
+ldclient-py==6.9.1
+locust==2.6.1
+lxml==4.7.1
+MarkupSafe==2.0.1
+matplotlib==3.5.1
+mimesis==4.1.3
+more-itertools==8.7.0
+msgpack==1.0.3
+networkx==2.6.3
+nose-exclude==0.5.0
+nose-xunitmp==0.4.1
+nose==1.3.7
+numpy-financial==1.0.0
+numpy==1.21.5
+oauth2client==4.1.3
+opencv-python==4.5.5.62
+openpyxl==3.0.9
+outcome==1.1.0
+packaging==21.3
+pandas==1.3.5
+parameterized==0.8.1
+pdfminer.six==20211012
+pdfplumber==0.6.0
+pika==1.2.0
+Pillow==9.0.1
+pip-autoremove==0.10.0
+pip==21.3.1
+pluggy==1.0.0
+protobuf==3.19.3
+psutil==5.9.0
+psycopg2-binary==2.9.3
+py==1.11.0
+pyasn1-modules==0.2.8
+pyasn1==0.4.8
+pycparser==2.21
+pycryptodome==3.13.0
+pycryptodomex==3.13.0
+pycurl==7.44.1
+PyJWT==1.7.0
+pymongo==3.12.0
+pymssql==2.2.4
+PyMySQL==1.0.2
+pyobjc-core==8.2; sys_platform == 'darwin'
+pyobjc-framework-Accounts==8.2; sys_platform == 'darwin'
+pyobjc-framework-AddressBook==8.2; sys_platform == 'darwin'
+pyobjc-framework-AdSupport==8.2; sys_platform == 'darwin'
+pyobjc-framework-AppleScriptKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-AppleScriptObjC==8.2; sys_platform == 'darwin'
+pyobjc-framework-ApplicationServices==8.2; sys_platform == 'darwin'
+pyobjc-framework-AudioVideoBridging==8.2; sys_platform == 'darwin'
+pyobjc-framework-AuthenticationServices==8.2; sys_platform == 'darwin'
+pyobjc-framework-AutomaticAssessmentConfiguration==8.2; sys_platform == 'darwin'
+pyobjc-framework-Automator==8.2; sys_platform == 'darwin'
+pyobjc-framework-AVFoundation==8.2; sys_platform == 'darwin'
+pyobjc-framework-AVKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-BusinessChat==8.2; sys_platform == 'darwin'
+pyobjc-framework-CalendarStore==8.2; sys_platform == 'darwin'
+pyobjc-framework-CFNetwork==8.2; sys_platform == 'darwin'
+pyobjc-framework-CloudKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-Cocoa==8.2; sys_platform == 'darwin'
+pyobjc-framework-Collaboration==8.2; sys_platform == 'darwin'
+pyobjc-framework-ColorSync==8.2; sys_platform == 'darwin'
+pyobjc-framework-Contacts==8.2; sys_platform == 'darwin'
+pyobjc-framework-ContactsUI==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreAudio==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreAudioKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreBluetooth==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreData==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreHaptics==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreLocation==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreMedia==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreMediaIO==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreMIDI==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreML==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreMotion==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreServices==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreSpotlight==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreText==8.2; sys_platform == 'darwin'
+pyobjc-framework-CoreWLAN==8.2; sys_platform == 'darwin'
+pyobjc-framework-CryptoTokenKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-DeviceCheck==8.2; sys_platform == 'darwin'
+pyobjc-framework-DictionaryServices==8.2; sys_platform == 'darwin'
+pyobjc-framework-DiscRecording==8.2; sys_platform == 'darwin'
+pyobjc-framework-DiscRecordingUI==8.2; sys_platform == 'darwin'
+pyobjc-framework-DiskArbitration==8.2; sys_platform == 'darwin'
+pyobjc-framework-DVDPlayback==8.2; sys_platform == 'darwin'
+pyobjc-framework-EventKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-ExceptionHandling==8.2; sys_platform == 'darwin'
+pyobjc-framework-ExecutionPolicy==8.2; sys_platform == 'darwin'
+pyobjc-framework-ExternalAccessory==8.2; sys_platform == 'darwin'
+pyobjc-framework-FileProvider==8.2; sys_platform == 'darwin'
+pyobjc-framework-FileProviderUI==8.2; sys_platform == 'darwin'
+pyobjc-framework-FinderSync==8.2; sys_platform == 'darwin'
+pyobjc-framework-FSEvents==8.2; sys_platform == 'darwin'
+pyobjc-framework-GameCenter==8.2; sys_platform == 'darwin'
+pyobjc-framework-GameController==8.2; sys_platform == 'darwin'
+pyobjc-framework-GameKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-GameplayKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-ImageCaptureCore==8.2; sys_platform == 'darwin'
+pyobjc-framework-IMServicePlugIn==8.2; sys_platform == 'darwin'
+pyobjc-framework-InputMethodKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-InstallerPlugins==8.2; sys_platform == 'darwin'
+pyobjc-framework-InstantMessage==8.2; sys_platform == 'darwin'
+pyobjc-framework-Intents==8.2; sys_platform == 'darwin'
+pyobjc-framework-IOSurface==8.2; sys_platform == 'darwin'
+pyobjc-framework-iTunesLibrary==8.2; sys_platform == 'darwin'
+pyobjc-framework-LatentSemanticMapping==8.2; sys_platform == 'darwin'
+pyobjc-framework-LaunchServices==8.2; sys_platform == 'darwin'
+pyobjc-framework-libdispatch==8.2; sys_platform == 'darwin'
+pyobjc-framework-LinkPresentation==8.2; sys_platform == 'darwin'
+pyobjc-framework-LocalAuthentication==8.2; sys_platform == 'darwin'
+pyobjc-framework-MapKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-MediaAccessibility==8.2; sys_platform == 'darwin'
+pyobjc-framework-MediaLibrary==8.2; sys_platform == 'darwin'
+pyobjc-framework-MediaPlayer==8.2; sys_platform == 'darwin'
+pyobjc-framework-MediaToolbox==8.2; sys_platform == 'darwin'
+pyobjc-framework-Metal==8.2; sys_platform == 'darwin'
+pyobjc-framework-MetalKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-MetalPerformanceShaders==8.2; sys_platform == 'darwin'
+pyobjc-framework-ModelIO==8.2; sys_platform == 'darwin'
+pyobjc-framework-MultipeerConnectivity==8.2; sys_platform == 'darwin'
+pyobjc-framework-NaturalLanguage==8.2; sys_platform == 'darwin'
+pyobjc-framework-NetFS==8.2; sys_platform == 'darwin'
+pyobjc-framework-Network==8.2; sys_platform == 'darwin'
+pyobjc-framework-NetworkExtension==8.2; sys_platform == 'darwin'
+pyobjc-framework-NotificationCenter==8.2; sys_platform == 'darwin'
+pyobjc-framework-OpenDirectory==8.2; sys_platform == 'darwin'
+pyobjc-framework-OSAKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-OSLog==8.2; sys_platform == 'darwin'
+pyobjc-framework-PencilKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-Photos==8.2; sys_platform == 'darwin'
+pyobjc-framework-PhotosUI==8.2; sys_platform == 'darwin'
+pyobjc-framework-PreferencePanes==8.2; sys_platform == 'darwin'
+pyobjc-framework-PushKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-QTKit==6.2.2; sys_platform == 'darwin'
+pyobjc-framework-Quartz==8.2; sys_platform == 'darwin'
+pyobjc-framework-QuickLookThumbnailing==8.2; sys_platform == 'darwin'
+pyobjc-framework-SafariServices==8.2; sys_platform == 'darwin'
+pyobjc-framework-SceneKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-ScreenSaver==8.2; sys_platform == 'darwin'
+pyobjc-framework-ScriptingBridge==8.2; sys_platform == 'darwin'
+pyobjc-framework-SearchKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-Security==8.2; sys_platform == 'darwin'
+pyobjc-framework-SecurityFoundation==8.2; sys_platform == 'darwin'
+pyobjc-framework-SecurityInterface==8.2; sys_platform == 'darwin'
+pyobjc-framework-ServiceManagement==8.2; sys_platform == 'darwin'
+pyobjc-framework-Social==8.2; sys_platform == 'darwin'
+pyobjc-framework-SoundAnalysis==8.2; sys_platform == 'darwin'
+pyobjc-framework-Speech==8.2; sys_platform == 'darwin'
+pyobjc-framework-SpriteKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-StoreKit==8.2; sys_platform == 'darwin'
+pyobjc-framework-SyncServices==8.2; sys_platform == 'darwin'
+pyobjc-framework-SystemConfiguration==8.2; sys_platform == 'darwin'
+pyobjc-framework-SystemExtensions==8.2; sys_platform == 'darwin'
+pyobjc-framework-UserNotifications==8.2; sys_platform == 'darwin'
+pyobjc-framework-VideoSubscriberAccount==8.2; sys_platform == 'darwin'
+pyobjc-framework-VideoToolbox==8.2; sys_platform == 'darwin'
+pyobjc-framework-Vision==8.2; sys_platform == 'darwin'
+pyobjc-framework-WebKit==8.2; sys_platform == 'darwin'
+pyobjc==8.2; sys_platform == 'darwin'
+pyOpenSSL==21.0.0
+pyparsing==3.0.7
+pyRFC3339==1.1
+pyrsistent==0.18.1
+PySocks==1.7.1
+pytest_check==1.0.4
+pytest-forked==1.4.0
+pytest-html==3.1.1
+pytest-metadata==1.11.0
+pytest-order==1.0.1
+pytest-rerunfailures==10.2
+pytest-xdist==2.5.0
+pytest==6.2.5
+python-dateutil==2.8.2
+pytz==2021.3
+pyyaml==5.4.1
+PyWavelets==1.2.0
+pyzmq==22.3.0
+Random-Word-Generator==1.3
+redis==4.1.1
+requests==2.27.1
+roundrobin==0.0.2
+rsa==4.8
+rstr==3.0.0
+s3transfer==0.5.0
+saucebindings==1.0.0
+sauceclient==1.0.0
+scikit-image==0.16.2
+scipy==1.7.3
+selenium-wire==4.6.0
+selenium==4.1.0
+semver==2.13.0
+setuptools==60.5.0
+simplejson==3.17.6
+six==1.16.0
+sniffio==1.2.0
+sortedcontainers==2.4.0
+stripe==2.65.0
+structlog==21.5.0
+tetest-python==1.1.1
+tifffile==2021.11.2
+tinycss2==1.1.1
+toml==0.10.2
+transitions==0.8.10
+trio-websocket==0.9.2
+trio==0.19.0
+typing_extensions==4.0.1
+typing==3.7.4.3
+ua-parser==0.10.0
+Unidecode==1.3.2
+uritemplate==4.1.1
+urllib3==1.26.8
+Wand==0.6.7
+webencodings==0.5.1
+websocket-client==0.59
+Werkzeug==2.0.2
+wrapt==1.13.3
+wsproto==1.0.0
+xmltodict==0.12.0
+zipp==3.7.0
+zope.event==4.5.0
+zope.interface==5.4.0
+zstandard==0.17.0
