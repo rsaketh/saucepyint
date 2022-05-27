@@ -27,6 +27,10 @@ def driver(request):
         'sauce:options': sauceOptions
     }
 
+    browser = webdriver.Remote(remote_url, desired_capabilities=chromeOpts)
+    yield browser
+    browser.quit()
+
 
 def pytest_runtest_protocol(item, nextitem, driver):
     reports = runtestprotocol(item, nextitem=nextitem)
@@ -37,7 +41,7 @@ def pytest_runtest_protocol(item, nextitem, driver):
 
 
 def test_should_open_safari(driver):
-    driver.get("https://tesla.com/")
+    driver.get('https://tesla.com/')
     actual_title = driver.title
     expected_title = "Electric Cars, Solar & Clean Energy | Tesla"
     assert expected_title == actual_title

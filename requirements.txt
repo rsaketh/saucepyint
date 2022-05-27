@@ -110,6 +110,7 @@ pycparser==2.21
 pycryptodome==3.13.0
 pycryptodomex==3.13.0
 pycurl==7.44.1
+pyinstaller
 PyJWT==1.7.0
 pymongo==3.12.0
 pymssql==2.2.4
